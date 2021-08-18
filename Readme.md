@@ -1,4 +1,4 @@
-# RDX MULTI DEPLOY BOT
+# BLACK MAFIA MULTI DEPLOY BOT
 
 ## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
 
